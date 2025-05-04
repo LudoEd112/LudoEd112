@@ -1,5 +1,11 @@
 <h1 align="center"> <img src="header.png"></h1>
 
+## 👾Socials:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/LudoEd112)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-083FA6?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/ludoed112)
+[![Vkontakte](https://img.shields.io/badge/-Mail-AF001E?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:datakmakov@gmail.com)
+
 ## 🛠️ Stack:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
